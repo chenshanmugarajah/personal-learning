@@ -15,7 +15,7 @@ namespace _03_bubble_sort
             foreach (var number in prices)
             {
                 Console.Write(number + " ");
-            }
+            } 
 
             for (int i = 0; i < prices.Count - 1; i++)
             {
